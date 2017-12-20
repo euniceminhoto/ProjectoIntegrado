@@ -1,4 +1,4 @@
-extends "res://scripts/itens.gd" # herda tudo do script itens
+extends "res://Scripts/itens.gd" # herda tudo do script itens
 
 func _ready():
 	pass
